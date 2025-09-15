@@ -1,0 +1,1 @@
+Computes the average of inputted numbers using while loop.
